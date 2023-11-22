@@ -1,0 +1,54 @@
+[2023-11-15 11:44:41,446]: Creating directory: service-bdd for the file: Dockerfile
+[2023-11-15 11:44:41,451]: Creating empty file: service-bdd\Dockerfile
+[2023-11-15 11:44:41,463]: Creating directory: service-web-app for the file: Dockerfile
+[2023-11-15 11:44:41,466]: Creating empty file: service-web-app\Dockerfile
+[2023-11-15 11:44:41,466]: Creating directory: service-web-app for the file: app.py
+[2023-11-15 11:44:41,466]: Creating empty file: service-web-app\app.py
+[2023-11-15 11:44:41,466]: Creating directory: service-web-app\template for the file: index.html
+[2023-11-15 11:44:41,473]: Creating empty file: service-web-app\template\index.html
+[2023-11-15 11:44:41,478]: Creating directory: service-web-app\static for the file: style.css
+[2023-11-15 11:44:41,478]: Creating empty file: service-web-app\static\style.css
+[2023-11-15 11:44:41,478]: Creating directory: service-web-app\static for the file: script.js
+[2023-11-15 11:44:41,478]: Creating empty file: service-web-app\static\script.js
+[2023-11-15 11:44:41,478]: File creation process completed
+[2023-11-15 11:51:35,959]: Creating directory: service-bdd for the file: Dockerfile
+[2023-11-15 11:51:35,963]: Creating empty file: service-bdd\Dockerfile
+[2023-11-15 11:51:35,964]: Creating directory: service-web-app for the file: Dockerfile
+[2023-11-15 11:51:35,966]: Creating empty file: service-web-app\Dockerfile
+[2023-11-15 11:51:35,966]: Creating directory: service-web-app for the file: app.py
+[2023-11-15 11:51:35,969]: Creating empty file: service-web-app\app.py
+[2023-11-15 11:51:35,969]: Creating directory: service-web-app\template for the file: index.html
+[2023-11-15 11:51:35,972]: index.html already exists
+[2023-11-15 11:51:35,974]: Creating directory: service-web-app\static\css for the file: style.css
+[2023-11-15 11:51:35,984]: Creating empty file: service-web-app\static\css\style.css
+[2023-11-15 11:51:35,990]: Creating directory: service-web-app\static\js for the file: script.js
+[2023-11-15 11:51:36,001]: Creating empty file: service-web-app\static\js\script.js
+[2023-11-15 11:51:36,001]: File creation process completed
+[2023-11-15 11:52:58,627]: Creating directory: service-bdd for the file: Dockerfile
+[2023-11-15 11:52:58,632]: Creating empty file: service-bdd\Dockerfile
+[2023-11-15 11:52:58,634]: Creating directory: service-web-app for the file: Dockerfile
+[2023-11-15 11:52:58,640]: Creating empty file: service-web-app\Dockerfile
+[2023-11-15 11:52:58,644]: Creating directory: service-web-app for the file: app.py
+[2023-11-15 11:52:58,688]: Creating empty file: service-web-app\app.py
+[2023-11-15 11:52:58,710]: Creating directory: service-web-app\template for the file: index.html
+[2023-11-15 11:52:58,712]: index.html already exists
+[2023-11-15 11:52:58,714]: Creating directory: service-web-app\static\css for the file: style.css
+[2023-11-15 11:52:58,714]: style.css already exists
+[2023-11-15 11:52:58,727]: Creating directory: service-web-app\static\js\script.jsservice-web-app\utils for the file: data_handler.py
+[2023-11-15 11:52:58,731]: Creating empty file: service-web-app\static\js\script.jsservice-web-app\utils\data_handler.py
+[2023-11-15 11:52:58,732]: File creation process completed
+[2023-11-15 11:53:27,119]: Creating directory: service-bdd for the file: Dockerfile
+[2023-11-15 11:53:27,124]: Creating empty file: service-bdd\Dockerfile
+[2023-11-15 11:53:27,127]: Creating directory: service-web-app for the file: Dockerfile
+[2023-11-15 11:53:27,150]: Creating empty file: service-web-app\Dockerfile
+[2023-11-15 11:53:27,171]: Creating directory: service-web-app for the file: app.py
+[2023-11-15 11:53:27,181]: Creating empty file: service-web-app\app.py
+[2023-11-15 11:53:27,194]: Creating directory: service-web-app\template for the file: index.html
+[2023-11-15 11:53:27,208]: index.html already exists
+[2023-11-15 11:53:27,210]: Creating directory: service-web-app\static\css for the file: style.css
+[2023-11-15 11:53:27,210]: style.css already exists
+[2023-11-15 11:53:27,210]: Creating directory: service-web-app\static\js for the file: script.js
+[2023-11-15 11:53:27,213]: script.js already exists
+[2023-11-15 11:53:27,229]: Creating directory: service-web-app\utils for the file: data_handler.py
+[2023-11-15 11:53:27,234]: Creating empty file: service-web-app\utils\data_handler.py
+[2023-11-15 11:53:27,236]: File creation process completed
